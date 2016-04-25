@@ -24,6 +24,7 @@
 		"Kulture",
 		"LESS",
 		"Material Theme",
+		"OmniMarkupPreviewer",
 		"OmniSharp",
 		"Package Control",
 		"Predawn",
@@ -36,6 +37,8 @@
 		"Terminality",
 		"Theme - itg.flat",
 		"Theme - Soda",
-		"Themr"
+		"Themr",
+		"TypeScript",
+		"TypescriptCompletion"
 	]
 }
