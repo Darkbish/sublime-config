@@ -1,0 +1,8 @@
+{
+    "nt":{
+        "win32":{
+            "firefox":"D:\\Program Files\\Mozilla Firefox\\firefox.exe -new-tab",
+            "chrome64": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+        }
+    }
+}
