@@ -55,7 +55,8 @@
 		".hg",
 		"CVS",
 		"bower_components",
-		"node_modules"
+		"node_modules",
+		".idea"
 	],
 	"font_face": "YaHei Consolas Hybrid",
 	"font_size": 14.0,
@@ -63,7 +64,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"TypeScript"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
