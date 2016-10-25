@@ -1,4 +1,0 @@
-[
-    { "keys": ["ctrl+m", "ctrl+m"], "command": "expand_selection_to_paragraph" },
-    { "keys": [ "ctrl+alt+c" ], "command": "view_in_browser", "args": { "browser": "chrome64" } }
-]

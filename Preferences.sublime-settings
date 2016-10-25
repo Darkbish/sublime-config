@@ -46,7 +46,7 @@
 		"*.hot-update.js",
 		"*.hot-update.json",
 		"*.hot-update.js.map",
-		"node_modules"
+		"*.7z"
 	],
 	"folder_exclude_patterns":
 	[
@@ -63,6 +63,7 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"TypeScript"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,

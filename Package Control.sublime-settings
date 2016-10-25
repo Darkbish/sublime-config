@@ -2,14 +2,13 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TypeScript"
 	],
 	"installed_packages":
 	[
-		"Agila Theme",
 		"All Autocomplete",
 		"AutoFileName",
 		"Bootstrap 3 Snippets",
-		"Bootstrap 4 Snippets",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"Color Highlighter",
@@ -22,19 +21,16 @@
 		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
 		"LESS",
-		"Material Theme",
 		"Package Control",
-		"Predawn",
-		"Pretty JSON",
+		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SublimeTmpl",
 		"Sunrise Theme",
 		"SyntaxManager",
 		"Terminal",
-		"Theme - itg.flat",
-		"Theme - Soda",
 		"Themr",
-		"TypeScript",
 		"View In Browser",
 		"Vue Syntax Highlight"
 	]
